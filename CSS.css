@@ -1,0 +1,21 @@
+body {background-image: url(./Pictures/Jungle\ Background.jpg);
+;}
+
+body.water {background-image: url(./Pictures/Underwater\ Background.jpg);}
+
+body.air {background-image: url(./Pictures/Sky\ Background.jpg);}
+
+body.land {background-image: url(./Pictures/Land\ Background2.jpg);}
+
+body.air :is(h1,p,footer) {background-image: url(./Pictures/ori_4159414_no1csru7km2p1tullklg2ratgh1ado8mgxbdksqi_cartoon-clouds-pattern-seamless-print-of-summer-b.jpg);
+font-weight: bolder ;}
+
+body.water :is(h1,p,footer) {background-image: url(./Pictures/bubbles-seamless-pattern-blue_1284-43368.avif);
+    font-weight:bolder;}
+
+p,h1,h2,footer {background-image: url(./Pictures/texture-wooden-boards.jpg);
+font-weight: bolder;}
+
+
+h1 {text-align: center;}
+
